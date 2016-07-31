@@ -1,7 +1,7 @@
 {
   "name": "bony",
   "version": "0.1.0",
-  "description": "Backbone data-diff rendering views.",
+  "description": "Backbone data diff reactive view rendering.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

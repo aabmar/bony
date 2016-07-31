@@ -1,9 +1,7 @@
-
-
 Bony
 ====
 
-Fast rendering Backbone toolkit.
+Backbone data diff reactive view rendering.
 
 
 Background
