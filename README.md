@@ -34,7 +34,16 @@ Two view classes is bundled with Bony:
 Both views will update when data is changed in a model or a collection. All things to be changed on screen is to be done on model/collection level.
 
 
+
 Implement your own view
 -----------------------
 
+
+You can base your own high level views on the Component class, the ListView or ItemView.
+
+If you would like to get already implemented views, check out Bony-Soup or Bony-Strap.
+
+Remember\\
+
 __Never call .render() on a view. Call .dirty()__ to mark the component for rendering. The render function will be called during the next animation frame.
+
