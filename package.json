@@ -12,8 +12,8 @@
   "license": "MIT",
   "dependencies": {
     "backbone": "^1.2.2",
+    "handlebars": "^4.7.7",
     "jquery": "^3.3.1",
-    "underscore": "^1.8.3",
-    "handlebars": "^3.0.3"
+    "underscore": "^1.8.3"
   }
 }
